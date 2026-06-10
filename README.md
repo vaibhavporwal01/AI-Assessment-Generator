@@ -1,6 +1,6 @@
-# VedaAI AI Assessment Creator
+# AI Assessment Creator
 
-VedaAI AI Assessment Creator is a classroom assignment and question-paper generation platform for teachers. It includes assignment management, group views, a reusable content library, PDF-ready question papers, and a teacher toolkit powered by Gemini when an API key is available.
+AI Assessment Creator is a classroom assignment and question-paper generation platform for teachers. It includes assignment management, group views, a reusable content library, PDF-ready question papers, and a teacher toolkit powered by Gemini when an API key is available.
 
 ## Tech Stack
 
